@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="question1">Question 1</string>
+    <string name="question1_description">IBM is a well known computer and information technology company, what does IBM stand for ?</string>
+    <string name="enter_answer">Enter your answer here</string>
+    <string name="question2">Question 2</string>
+    <string name="question2_description">What does the abbreviation WWW stands for?</string>
+    <string name="question3">Question 3</string>
+    <string name="question3_description">Who wrote the book Alice in Wonderland?</string>
+    <string name="q3_option1">J.K.Rowling</string>
+    <string name="q3_option2">Lewis Carroll</string>
+    <string name="q3_option3">Louis Carroll</string>
+    <string name="question4">Question 4</string>
+    <string name="question4_description">Are Walruses found in South Pole?</string>
+    <string name="q4_option1">Yes</string>
+    <string name="q4_option2">No</string>
+    <string name="q4_option3">No, They are found in New Zealand</string>
+    <string name="question5">Question 5</string>
+    <string name="question5_description">Which animals in the following falls under the category of mammals?</string>
+    <string name="q5_option1">Whale</string>
+    <string name="q5_option2">Elephant</string>
+    <string name="q5_option3">Eagle</string>
+    <string name="q5_option4">Sea Horse</string>
+    <string name="display_correct">Correct! :)</string>
+    <string name="correct_answer1">International Business Machines</string>
+    <string name="correct_answer2">World Wide Web</string>
+
+</resources>
